@@ -4,9 +4,16 @@ body {
 }
 
 a {
-  color: #00b7ff;
+  color: #0026ff;
 }
 
 h1 {
   color: 15px;
+}
+
+.book-summary {
+  background-color: #eee;
+  border: 1px solid #666;
+  margin: 1rem;
+  padding: 1rem;
 }
