@@ -9,6 +9,12 @@ a {
 
 h1 {
   color: 15px;
+  margin: 3rem auto 1rem;
+}
+
+form {
+  display: block;
+  margin: 1rem auto;
 }
 
 .book-summary {
